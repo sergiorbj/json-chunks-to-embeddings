@@ -11,14 +11,6 @@ Python script to convert text chunks to embeddings using multiple AI providers, 
 - **⚙️ Flexible Configuration**: Via environment variables or command line
 - **✅ Robust Validation**: Input verification and error handling
 
-## 📊 Performance Comparison
-
-| Provider | Dimensions | Batch Limit | Speed | Cost |
-|----------|-----------|-------------|-------|------|
-| **Gemini** ⭐ | 768 | **No limit** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| OpenAI | 1536 | 100 | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-| Anthropic | 1536 | 100 | ⭐⭐⭐⭐ | ⭐⭐⭐ |
-
 ## 📁 File Structure
 
 ```
@@ -186,14 +178,6 @@ Each provider has its own configuration variables:
 - **OpenAI**: `OPENAI_API_KEY`, `OPENAI_EMBEDDING_MODEL`
 - **Anthropic**: `ANTHROPIC_API_KEY`, `ANTHROPIC_EMBEDDING_MODEL`
 
-## 🏗️ Architecture
-
-The project uses a modular architecture with:
-
-- **BaseProvider**: Abstract base class for all providers
-- **ProviderFactory**: Factory for creating provider instances
-- **Specific Providers**: Implementations for each AI service
-
 ### Adding New Providers
 
 To add a new provider:
@@ -202,16 +186,6 @@ To add a new provider:
 2. Implement required methods
 3. Add provider to `ProviderFactory`
 4. Update environment configurations
-
-## 🔧 Error Handling
-
-The script includes robust validation:
-
-- Checks if API keys are configured
-- Validates JSON input structure
-- Verifies all required fields are present
-- Handles network and API errors
-- Provides clear error messages
 
 ## ⚡ Performance
 
@@ -225,7 +199,6 @@ The script includes robust validation:
 
 - Python 3.7+
 - Google AI Studio account (for Gemini) or other providers
-- Internet connection
 
 ## 🧪 Testing
 
