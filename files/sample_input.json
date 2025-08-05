@@ -1,0 +1,438 @@
+[
+  {
+    "content": "O diagnóstico energético pela língua na MTC serve para diferenciar síndromes clínicas, desarmonias dos Zang Fu (órgãos e vísceras), e verificar o estado do Qi, Xue (Sangue) e das Energias Perversas (Xie Qi) para adequar o tratamento.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "O exame da língua é um método de visualizar externamente as alterações dos órgãos internos, pois manifestações internas se expressam na face e na língua.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A língua é considerada a manifestação exterior do Xin (Coração), que é o 'Imperador dos Zang Fu'. Portanto, todas as desordens energéticas dos órgãos e vísceras se refletem no Coração e, subsequentemente, na língua.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A superfície da língua, com suas papilas gustativas, reflete o estado dos órgãos internos, funcionando como um mapa do microcosmos do corpo.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A cor, umidade, textura e a presença de saburra na língua são elementos observados na MTC para inferir diagnósticos precisos.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A capacidade dos músculos da língua de alterar sua forma e volume pode ser um indicativo de desequilíbrios energéticos.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A língua é um órgão altamente vascularizado, irrigado pelas artérias lingual e facial. O retorno venoso ocorre pela veia jugular interna. A inervação motora é do nervo hipoglosso (XII), a sensibilidade geral é dos nervos lingual (V) e glossofaríngeo (IX), e a gustativa é dos nervos facial (VII) e glossofaríngeo.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "Embriologicamente, a língua se desenvolve a partir de múltiplos arcos faríngeos entre a quarta e oitava semana de gestação.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "O Coração (Xin) é o 'Imperador dos Órgãos' e 'Fonte da Vida' porque o sistema cardiovascular é o primeiro a se tornar funcional no embrião, impulsionando o desenvolvimento dos demais tecidos.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "O Xin (Coração) é a sede do Shen (Consciência) e o local de sua transformação. Ele é responsável pela produção da atividade mental, exercendo ação sobre as correspondências psíquicas das vísceras.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A relação entre Coração e Encéfalo é sugerida pela origem embrionária comum no polo cranial do embrião, indicando que suas conexões primitivas podem se perpetuar.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A língua é o 'broto do Xin' (Coração). A MTC afirma que 'o orifício do Xin comunica-se com a língua', permitindo a distinção dos cinco sabores. Embriologicamente, ambos se originam do mesmo mesoderma.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "Curiosidade: A língua é o músculo mais flexível do corpo e raramente se cansa. Cada pessoa tem uma impressão de língua única. Em média, possui de 2.000 a 4.000 papilas gustativas.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A topografia da língua correlaciona áreas a órgãos: a ponta da língua é a janela para o Coração e o Pulmão. Vermelhidão ou úlceras na ponta podem indicar ansiedade, insônia ou problemas respiratórios.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "O centro da língua reflete o estado do Estômago e do Baço. Uma língua pálida pode sugerir deficiência de energia do baço, enquanto uma camada amarela espessa pode indicar calor no estômago.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "As laterais da língua estão ligadas ao Fígado e à Vesícula Biliar. Se estas áreas estiverem vermelhas или inchadas, pode ser um sinal de estagnação de Qi do fígado ou calor no fígado.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A base ou raiz da língua corresponde aos Rins e Intestinos. Uma base púrpura pode indicar estagnação de sangue nos rins, enquanto uma camada espessa e branca pode sugerir frio e umidade nos intestinos.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A cor da língua indica diferentes condições: Pálida (Deficiência de sangue ou yang), Vermelha (Calor excessivo no corpo), Púrpura (Estagnação de sangue ou frio extremo).",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A forma da língua fornece pistas importantes: Inchada (Deficiência de Qi ou retenção de líquido), Fina (Deficiência de yin ou sangue).",
+    "origin": "aula_08"
+  },
+  {
+    "content": "O revestimento da língua (saburra) indica condições energéticas: Fina e branca (Condição normal ou frio), Espessa e amarela (Calor e umidade).",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A propedêutica energética da língua é uma parte objetiva e visível da semiologia da MTC, que quantifica o grau das desarmonias. O diagnóstico completo deve incluir queixa clínica, interrogatório, inspeção, palpação de pulso e exame da língua.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "O 'Espírito da língua' (Shén) está associado à saúde e vitalidade. Uma língua com espírito parece viçosa e robusta, enquanto uma sem espírito parece murcha.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "Uma língua viçosa, brilhante e úmida indica bom suprimento de fluidos corporais e bom prognóstico. Uma língua seca e murcha indica esgotamento dos fluidos corporais e mau prognóstico.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A língua que indica 'Vida' apresenta cor vermelho-vivo na raiz. A língua que indica 'Morte' apresenta uma cor escura na raiz e está murcha. A raiz da língua reflete a saúde dos Rins.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A análise da cor do corpo da língua proporciona informações sobre as condições do Xue (Sangue), do Yong Qi (Energia nutritiva) e do Yang e Yin do corpo.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A análise da forma do corpo da língua fornece informações sobre o estado do Xue (Sangue), do Qi Nutritivo e do Jing (Essência), observando se há edema, flacidez ou fissuras.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A saburra (revestimento lingual) indica condições de frio ou calor, invasão por fatores patogênicos externos e condições do Estômago (Wei) e Baço (Pi), além do estado dos Fluidos Orgânicos (Jin Ye).",
+    "origin": "aula_08"
+  },
+  {
+    "content": "A inspeção dos vasos sanguíneos sublinguais informa sobre padrões específicos e sua cronicidade. Vasos túrgidos e sinuosos indicam Estase de Xue crônica. A não visualização dos vasos indica Deficiência de Xue ou de fluidos orgânicos.",
+    "origin": "aula_08"
+  },
+  {
+    "content": "Uma língua saudável na MTC é rosa clara, uniforme, suave, úmida, com saburra fina e branca, sem fissuras ou marcas de dentes, e com movimentos flexíveis e ágeis.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "Veias sublinguais normais devem ser discretas, pouco visíveis e com cor ligeiramente azulada. Veias muito visíveis, inchadas ou escuras podem indicar estase de sangue.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "Uma língua pálida geralmente indica deficiência de Qi, Yang ou sangue.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A etiologia da cor pálida da língua na MTC inclui: Deficiência de Qi, Deficiência de Yang, Deficiência de sangue, anemia, doenças crônicas, fadiga crônica, excesso de trabalho, hemorragias e desnutrição.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "Uma língua de cor vermelha intensa pode ser um sinal de calor no corpo, provocado por infecções, inflamações, consumo excessivo de alimentos quentes e picantes ou estresse emocional prolongado.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A cor vermelha na língua indica um aumento da atividade metabólica e do fluxo sanguíneo, podendo estar relacionada a febre alta, hiperatividade do Qi e Yang do Coração, Calor no Fígado ou Calor e Umidade no Estômago.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A língua vermelha de 'Calor Vazio' apresenta-se sem saburra ou com saburra descascada/geográfica, indicando uma Deficiência de energia Yin, cujo tratamento é diferente do 'Calor Cheio'.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A língua roxa é um indicativo clássico de estase de sangue (Xue), que pode ser causado por má circulação, traumas ou frio extremo e pode ocorrer no fígado, coração, baço ou pulmão.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A coloração azulada na língua está relacionada a frio extremo e pode indicar uma deficiência severa de Yang e Estase do Xue, resultando em má circulação e hipotermia.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A deficiência de Qi e Sangue manifesta-se através de uma língua pálida, acompanhada por cansaço, pele pálida e tonturas.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "Na deficiência de Qi, pode não haver mudança na cor da língua. Na deficiência de Yang, a língua fica mais pálida e úmida. A deficiência de Xue é a condição que mais torna a língua pálida.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "O Calor Cheio, refletido por uma língua vermelha, pode causar sintomas como sede intensa, insônia, irritabilidade, hipertensão, agitação, polifagia e febre.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A Estase de Sangue, indicada pela língua roxa, pode levar a dores localizadas, cefaleia, varizes, hemorroidas, IAM, AVE, trombose, embolia e distúrbios menstruais.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "O acúmulo de Umidade-Calor é identificado por uma língua vermelha com saburra amarelada e está frequentemente relacionado a problemas digestivos como gastrites e infecções bacterianas.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "A Deficiência de Yang manifesta-se por uma língua mais pálida com saburra branca e espessa, e pode resultar em sinais como extremidades frias, edema e sensação geral de frio.",
+    "origin": "aula_09"
+  },
+  {
+    "content": "Língua Fina e estreita pode sugerir deficiência de Sangue (se pálida) ou deficiência de Yin (se vermelha e sem revestimento).",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Inchada (aumentada de volume) geralmente indica retenção de Umidade ou Fleuma. Inchaços localizados na ponta sugerem Fogo no Coração; nas laterais, Fogo no Fígado.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Flácida (mole e sem tônus) sugere deficiência dos Fluidos Corpóreos, deficiência de Yin, deficiência de Qi do Baço ou deficiência de Xue.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Longa, que se estende além do normal, pode indicar tendência ao Calor, especialmente Calor do Coração.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Curta pode refletir Frio Interior (se pálida e úmida) ou deficiência de Yin (se vermelha e sem revestimento).",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua com Fissura pode indicar Calor por Excesso ou deficiência de Yin. Uma fissura no meio até a ponta sugere uma tendência a padrões do Coração.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Trêmula geralmente indica deficiência de Qi do Baço, deficiência de Yang do Baço ou deficiência de Jing do Rim.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Rígida perdeu sua flexibilidade normal, movendo-se com dificuldade e permanecendo reta e endurecida.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Desviada para um lado pode denotar Vento Interno ou obstrução dos meridianos por Vento-Fleuma.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua com Marcas de Dentes nas bordas indica deficiência de Qi do Baço ou acúmulo de líquidos orgânicos.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Língua Ulcerada com úlceras dolorosas e margens vermelhas significa ascensão do fogo do coração. Se as margens forem esbranquiçadas, pode indicar calor no coração por deficiência de Yin do Rim.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "A saburra da língua é formada pela mistura de fluidos corporais e restos de alimentos. Sua cor, espessura, umidade e forma são indicadores da saúde dos órgãos e do estado energético.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Saburra Branca e fina é normal. Se se tornar espessa e pegajosa, pode apontar para Fleuma ou Umidade, com sintomas de fadiga e peso nos membros.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Saburra Amarela sugere Calor ou Umidade-Calor. Pode indicar Calor no Estômago (sede, mau hálito), Calor no Fígado (irritabilidade, dor de cabeça) ou Calor no Intestino (constipação).",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Saburra Espessa e pegajosa pode indicar Umidade-Fleuma ou Estagnação nos canais energéticos, com sintomas de peso, opressão e dificuldades digestivas.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Saburra Negra ou marrom é um sinal de doenças sérias, associadas a Calor Extremo ou Deficiência de Yin, com sintomas como febre alta, boca seca e confusão mental.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "A inspeção dos vasos sublinguais revela problemas circulatórios. Vasos dilatados, escurecidos ou tortuosos podem indicar desequilíbrios energéticos significativos.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Padrão de Estagnação de Qi e Sangue é indicado por vasos sublinguais dilatados, escurecidos e tortuosos, associado a dor e distensão abdominal.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Padrão de Deficiência de Sangue é indicado por vasos sublinguais pálidos e finos, associado a fraqueza, fadiga e tonturas.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Padrão de Calor no Sangue é indicado por vasos sublinguais vermelhos e inflamados, associado a febre, inflamação e erupções cutâneas.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Padrão de Umidade-Fleuma é indicado por vasos sublinguais espessos e pegajosos, associado a sensação de peso, opressão e expectoração.",
+    "origin": "aula_10"
+  },
+  {
+    "content": "Cor da língua Pálida / Branca indica Deficiência de Xue (se seca) ou Deficiência de Yang (se úmida).",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Cor da língua Vermelha com saburra indica Calor por plenitude.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Cor da língua Vermelha sem saburra indica Calor por vazio.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Cor da língua Vermelha ou normal sem saburra indica Deficiência de Yin.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Pontos vermelhos no corpo da língua indicam Calor na região correspondente.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Cor da língua Roxa indica Estase de Xue. Se roxo-avermelhada, é por Calor. Se roxo-azulada, é por Frio.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Língua roxa nas áreas do Fígado indica Estase de Xue do Fígado ou do útero.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Língua roxa nas áreas do Tórax/mamas indica Estase de Xue no Coração ou mamas.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Fina indica Deficiência de Xue ou de fluidos Yin.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Aumentada indica Acúmulo de fluídos (umidade, fleuma, edema) ou Deficiência de Qi ou Yang.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Parcialmente aumentada indica Deficiência de Qi, Estagnação de Qi ou Calor na área afetada.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Língua parcialmente aumentada na região do Fígado (vermelha) indica Calor no Fígado.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Língua parcialmente aumentada na região do Tórax/Mama indica Fleuma no Tórax ou Mama ou Deficiência de Qi do Pulmão.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Língua parcialmente aumentada na Ponta (vermelha) indica Calor ou Fogo no Coração.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Flácida (enrugada) indica Deficiência de Xue ou Deficiência de Jin Ye (fluídos corporais).",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Rígida indica Estase de Xue, Vento interno ou Deficiência grave de Yin.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Curta, Pálida e Úmida indica Frio interno ou Deficiência de Yang.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Curta, Vermelha e sem saburra indica Deficiência de Yin.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Longa indica Calor.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua com Fissuras indica Deficiência de Yin, Umidade ou Deficiência de Qi original.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Desviada indica Vento do Fígado ou Deficiência de Xin (Coração).",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Móvel indica Vento do Fígado.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Trêmula indica Deficiência de Qi do Baço.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Morfologia de língua Dentada (marca de dentes) indica Deficiência de Qi do Baço.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Distendidas (não escuras) indicam Deficiência de Qi.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Finas indicam Deficiência de Yin.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Distendidas e escuras indicam Estase de Xue no aquecedor superior (TA).",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Escuras e secas indicam Deficiência grave de Yin com Calor Vazio.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Escuras, aumentadas e úmidas indicam Deficiência de Pulmão, Baço, Rim com acúmulo de fluidos.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Avermelhadas e brilhantes indicam Umidade-calor.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Amareladas indicam Umidade.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Brancas indicam Frio.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Veias sublinguais Aumentadas, brancas e pegajosas indicam Umidade e Estase de Xue.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra fina com raiz indica Qi do Estômago normal.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra espessa com raiz indica Fator patogênico forte e Qi do Estômago normal.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra fina sem raiz indica Deficiência de Qi do Estômago.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra espessa sem raiz indica Deficiência de Qi do Estômago e Fator patogênico Forte.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra Branca indica Frio.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra Branca e espessa indica Umidade ou Frio.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra Amarela indica Calor.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra Amarela e espessa indica Umidade ou Calor.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Língua sem saburra ou descascada indica Deficiência de Yin ou Desarmonia do Estômago.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra pegajosa indica mais comumente Fleuma ou Umidade.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra deslizante indica mais comumente Umidade ou Fleuma.",
+    "origin": "ficha_inspecao"
+  },
+  {
+    "content": "Saburra bolorenta indica Umidade ou Fleuma com Deficiência de Yin do Estômago e Calor vazio.",
+    "origin": "ficha_inspecao"
+  }
+]
